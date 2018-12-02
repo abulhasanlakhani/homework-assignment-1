@@ -1,4 +1,4 @@
-# --||-- The Node.js Master Class Course --||--
+# Node Master Class
 
 ## Assignment # 1 | Hello World API
 
